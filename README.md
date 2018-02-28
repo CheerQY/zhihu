@@ -8,6 +8,6 @@
 
 3、图片文字切换标签的练习。
 
-原型网址可移驾到：https://cheerqy.github.io/zhihu/查看
+原型网址可移驾到：https://cheerqy.github.io/zhihu/
 
 ![知乎原型图](https://github.com/CheerQY/zhihu/blob/master/GIF.gif)
